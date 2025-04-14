@@ -1,3 +1,3 @@
 # first-repo
-this is first repositry
+this is first repositry.
 auther is zeeshan
